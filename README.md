@@ -1,2 +1,3 @@
 # work10-c-lang
-my 10 work in c# language
+my 10th work in c# language
+![Uploading image.png…]()
